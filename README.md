@@ -39,7 +39,12 @@ Install dependencies:
 
 ```bash
 pip install opencv-python numpy matplotlib pillow
+
 ```
+
+```bash
+pip install -r requirements.txt
+
 
 ## Run the Application
 
